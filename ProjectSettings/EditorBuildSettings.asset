@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Benchmark.unity
+  - enabled: 0
+    path: Assets/KlakSpout/Benchmark.unity
     guid: 58dcdb08bb9105547ba4115762d0ef21
+  - enabled: 1
+    path: Assets/SpoutReceiver.unity
+    guid: 83fe6b8f8ccc2e243b6dfcd19fdda800
   m_configObjects: {}
